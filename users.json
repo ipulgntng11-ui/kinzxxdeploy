@@ -13,12 +13,28 @@
       "password": "admin123"
     },
     {
-      "username": "user1",
+      "username": "kinzxxoffc",
+      "password": "123321"
+    },
+    {
+      "username": "admin",
+      "password": "admin11093"
+    },
+    {
+      "username": "user108",
       "password": "pass1"
     },
     {
-      "username": "user2",
+      "username": "user29",
       "password": "pass2"
+    },
+    {
+      "username": "user10",
+      "password": "pass1"
+    },
+    {
+      "username": "user3",
+      "password": "pass3"
     }
   ]
 }
